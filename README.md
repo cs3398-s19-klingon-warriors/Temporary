@@ -1,5 +1,11 @@
 # Out of the Woods
 
+Vision Statement
+
+We are the “Klingons” team of Texas State University students working to create a safety-alert web application so that people in risky situations can achieve independence without sacrificing their own safety.
+
+Project Description
+
 Welcome! We are the Klingons, a group of undergraduate Computer Science students at Texas State University, using this project as a way to learn software engineering principles, get experience developing in Sprints, and hopefully build the start of something useful.
 We are creating a personal safety web application to alleviate stress and mitigate harm as a result of precarious or unpredictable situations.
 
