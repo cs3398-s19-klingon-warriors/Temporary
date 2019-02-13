@@ -1,6 +1,6 @@
 # Out of the Woods
 
-Welcome! We are the Klingons, a group of undergraduate Computer Science students at Texas State University, using this project as a way to learn software engineering principles, get experience developing in sprints, and hopefully build the start of something useful.
+Welcome! We are the Klingons, a group of undergraduate Computer Science students at Texas State University, using this project as a way to learn software engineering principles, get experience developing in Sprints, and hopefully build the start of something useful.
 We are creating a personal safety web application to alleviate stress and mitigate harm as a result of precarious or unpredictable situations.
 
 The application will send a notification to an emergency contact if the user: doesn’t arrive at their designated destination, thinks they are in danger, or just wants a friend to know their location. A user can preemptively set up an alert before entering an unsafe situation, or do it in the moment. Our goal is for users to achieve independence without sacrificing their own safety.
